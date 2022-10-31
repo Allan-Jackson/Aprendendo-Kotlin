@@ -1,0 +1,5 @@
+class MotivationConstan{
+    object KEY{
+
+    }
+}
